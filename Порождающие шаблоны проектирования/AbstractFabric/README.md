@@ -103,6 +103,7 @@ class IronDoorFactory implements DoorFactoryInterface{
 ```
 
 <h3><strong>Использование</strong></h3>
+
 ```php
 require_once ('Data/DoorInterface.php');
 require_once ('Data/DoorFactoryInterface.php');
