@@ -84,3 +84,8 @@ $marketingManager->takeInterview();
 ```
 <h3><strong>Когда использовать?</strong></h3>
 Этот шаблон полезен для каких-то общих обработок в классе, но требуемые подклассы динамически определяются в ходе выполнения (runtime). То есть когда клиент не знает, какой именно подкласс может ему понадобиться.
+
+<div align="center">
+    <h2> Структура проекта </h2>
+    <img src="https://sun9-46.userapi.com/impg/2AnFMqPSojQsmw1qTobAycjRe4YaFLgNJIsOTQ/gj3lz8OmCV0.jpg?size=592x568&quality=96&sign=7dafeb8fcab43721c484880e03b0a69e&type=album" alt="SimpleFactory">
+</div>
