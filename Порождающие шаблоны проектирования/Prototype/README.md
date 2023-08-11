@@ -55,3 +55,7 @@ echo $cloned->getCategory();
 Также для модификации процедуры клонирования можно обратиться к магическому методу `__clone`.
 <h3><strong>Когда использовать?</strong></h3>
 Когда необходимый объект аналогичен уже существующему или когда создание с нуля дороже клонирования.
+<div align="center">
+    <h2> Структура проекта </h2>
+    <img src="https://sun9-77.userapi.com/impg/tIbJMdsFaXYscrMzQIiQW09Qda_xIzFswoH4wA/Q80r8W_KBSo.jpg?size=456x307&quality=96&sign=3dd9e848763224b42b4f7781d787eec9&type=album" alt="SimpleFactory">
+</div>
