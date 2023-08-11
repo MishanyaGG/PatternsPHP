@@ -53,7 +53,7 @@ class DoorFactory{
 }
 ```
 
-Использование
+<h3><strong>Использование</strong></h3>
 
 ```php
 require_once('Factory/DoorFactory.php');
@@ -65,3 +65,7 @@ $door = DoorFactory::makeDoor(100,200);
 echo 'Width: '. $door->getWidth();
 echo 'Height: '. $door->getHeight();
 ```
+<h3><strong>Когда использовать?</strong></h3>
+Когда создание объекта подразумевает какую-то логику, а не просто несколько присваиваний, то имеет смысл делегировать задачу выделенной фабрике, а не повторять повсюду один и тот же код.
+
+![Изображение](https://sun9-17.userapi.com/impg/NnWvz8qOPDe4OlSRqplVXdEJtkNUy2_PajQ4Kw/UmdRuEjW75g.jpg)
