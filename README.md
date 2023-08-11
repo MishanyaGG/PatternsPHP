@@ -11,4 +11,4 @@
 
 
 [1]: https://github.com/MishanyaGG/PatternsPHP/tree/master/Порождающие%20шаблоны%20проектирования
-[2]: 
+[2]: https://github.com/MishanyaGG/PatternsPHP/tree/master/Структурные
