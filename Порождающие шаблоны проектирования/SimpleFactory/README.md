@@ -8,7 +8,7 @@
 
 Для начала нам нужен интерфейс двери и его реализация
 ```php
-namespace Factory\DoorInterface;
+namespace Factory;
 
 interface DoorInterface{
     public function getWidth();
@@ -17,7 +17,7 @@ interface DoorInterface{
 ```
 
 ```php
-namespace Factory\WoodenDoor;
+namespace Factory;
 
 class WoodenDoor implements DoorInterface
 {
@@ -44,7 +44,7 @@ class WoodenDoor implements DoorInterface
 Теперь создадим фабрику дверей, которая создаёт и возвращает нам двери
 
 ```php
-namespace Factory\DoorFactory;
+namespace Factory;
 
 class DoorFactory{
     public static function makeDoor($width, $height){

@@ -6,14 +6,14 @@
 <h3><strong>Пример</strong></h3>
 Сначала создадим интерфейс сотрудника, проводящего собеседование, и некоторые реализации для него.
 ```php
-namespace Data\Interviewer;
+namespace Data;
 
 interface Interviewer{
     public function askQuestions();
 }
 ```
 ```php
-namespace Data\Developer;
+namespace Data;
 
 class Developer implements Interviewer{
     public function askQuestions()
@@ -23,7 +23,7 @@ class Developer implements Interviewer{
 }
 ```
 ```php
-namespace Data\CommunityExecutive;
+namespace Data;
 
 class CommunityExecutive implements Interviewer{
     public function askQuestions()
@@ -34,7 +34,7 @@ class CommunityExecutive implements Interviewer{
 ```
 Теперь создадим кадровичку HiringManager
 ```php
-namespace Data\HiringManager;
+namespace Data;
 
 abstract class HiringManager{
 
@@ -48,7 +48,7 @@ abstract class HiringManager{
 ```
 Любой дочерний класс может расширять его и предоставлять нужного собеседующего
 ```php
-namespace Data\DeveloperManager; 
+namespace Data; 
 
 class DeveloperManager extends HiringManager {
     public function makeInterviewer(): Interviewer
@@ -58,7 +58,7 @@ class DeveloperManager extends HiringManager {
 }
 ```
 ```php
-namespace Data\MarketingManager;
+namespace Data;
 
 class MarketingManager extends HiringManager{
     public function makeInterviewer(): Interviewer
