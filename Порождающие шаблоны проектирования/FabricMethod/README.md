@@ -12,6 +12,7 @@ interface Interviewer{
     public function askQuestions();
 }
 ```
+
 ```php
 namespace Data;
 
@@ -22,6 +23,7 @@ class Developer implements Interviewer{
     }
 }
 ```
+
 ```php
 namespace Data;
 
@@ -68,6 +70,7 @@ class MarketingManager extends HiringManager{
 }
 ```
 <h3><strong>Использование</strong></h3>
+
 ```php
 require_once ('Data/HiringManager.php');
 require_once ('Data/Interviewer.php');
@@ -82,6 +85,7 @@ $devManager->takeInterview();
 $marketingManager = new MarketingManager();
 $marketingManager->takeInterview();
 ```
+
 <h3><strong>Когда использовать?</strong></h3>
 Этот шаблон полезен для каких-то общих обработок в классе, но требуемые подклассы динамически определяются в ходе выполнения (runtime). То есть когда клиент не знает, какой именно подкласс может ему понадобиться.
 
