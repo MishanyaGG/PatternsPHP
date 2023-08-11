@@ -9,4 +9,4 @@
 - [Порождающие шаблоны][1]
 
 
-[1]: 
+[1]: https://github.com/MishanyaGG/PatternsPHP/tree/master/Порождающие%20шаблоны%20проектирования
