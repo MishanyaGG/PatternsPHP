@@ -137,3 +137,8 @@ $someCoffee = new VanilCoffee($someCoffee);
 echo $someCoffee->getCost(); echo '<br>';
 echo $someCoffee->getDesription(); echo '<br>';
 ```
+
+<div align="center">
+    <h2> Структура проекта </h2>
+    <img src="https://sun9-78.userapi.com/impg/TXaoscXFrZWurcBCqV7jbkIeT5qumwXu3DQGQg/hE_ftTzDw30.jpg?size=798x368&quality=96&sign=bea53f53d76f059f92d84da829536c69&type=album" alt="SimpleFactory">
+</div>
