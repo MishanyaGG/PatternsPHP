@@ -144,3 +144,7 @@ $organization->addEmployee($jane);
 echo "Net salaries: " . $organization->getNetSalaries();
 ```
 
+<div align="center">
+    <h2> Структура проекта </h2>
+    <img src="https://sun9-50.userapi.com/impg/Q8cyjebIxenz0p-TibMu5UW8UsfFbgBItUumHg/kjxqa1O7Ddc.jpg?size=854x613&quality=96&sign=b381d77f0ef853c87be184b89d4ef8b5&type=album" alt="SimpleFactory">
+</div>
