@@ -79,3 +79,8 @@ $jane = new User('Jane Doe',$mediator);
 $jhon->send('Hi there! <br>');
 $jane->send('Hey!');
 ```
+
+<div align="center">
+    <h2> Структура проекта </h2>
+    <img src="https://sun9-26.userapi.com/impg/1icvlHEPz90AhZQPNQU8f9FJci5VdB4v4NgiYw/py8pzfM1yJc.jpg?size=288x450&quality=96&sign=6effd332736f7924a233f203209fae6f&type=album" alt="SimpleFactory">
+</div>

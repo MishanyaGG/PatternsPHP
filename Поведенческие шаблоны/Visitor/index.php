@@ -22,4 +22,4 @@ $speak = new Speak();
 
 $monkey->accept($speak);
 $lion->accept($speak);
-$lion->accept($speak);
+$dolphin->accept($speak);
