@@ -79,3 +79,8 @@ $door->open('invalid'); // Big no! It ain't possible.
 $door->open('$ecr@t'); // Opening lab door
 $door->close(); // Closing lab door
 ```
+
+<div align="center">
+    <h2> Структура проекта </h2>
+    <img src="https://sun9-69.userapi.com/impg/QJJo3GjliVIuRCQhpA1SFjSpuddXJ2_5Z8TGNg/gK2rK1qIF70.jpg?size=481x306&quality=96&sign=ecc1f26e6f0711481bc70c150a3e506d&type=album" alt="SimpleFactory">
+</div>
