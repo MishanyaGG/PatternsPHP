@@ -85,3 +85,8 @@ $editor->restore($saved);
 
 echo $editor->getContent(); // This is the first sentence. This is second.
 ```
+
+<div align="center">
+    <h2> Структура проекта </h2>
+    <img src="https://sun9-34.userapi.com/impg/crSEaHd779DYTpm1aQvT42pxLwQzwtiUpDyw3A/ZvZD0LRfTf0.jpg?size=364x506&quality=96&sign=d64af9a829aac7c517b2450042f755e1&type=album" alt="SimpleFactory">
+</div>
