@@ -4,6 +4,7 @@
 С помощью шаблона «Заместитель» класс представляет функциональность другого класса.
 <h3><strong>Пример</strong></h3>
 Реализуем интерфейс двери и саму дверь
+
 ```php
 namespace Data;
 
@@ -60,6 +61,7 @@ class Security{
 ```
 
 <h3><strong>Использование</strong></h3>
+
 ```php
 use Data\Security;
 use Data\LabDoor;
