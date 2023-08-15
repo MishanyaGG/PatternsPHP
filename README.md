@@ -8,7 +8,9 @@
 
 - [Порождающие шаблоны][1]
 - [Структурные][2]
+- [Поведенческие шаблоны] [3]
 
 
 [1]: https://github.com/MishanyaGG/PatternsPHP/tree/master/Порождающие%20шаблоны%20проектирования
 [2]: https://github.com/MishanyaGG/PatternsPHP/tree/master/Структурные
+[3]: https://github.com/MishanyaGG/PatternsPHP/tree/master/Поведенческие%20шаблоны
