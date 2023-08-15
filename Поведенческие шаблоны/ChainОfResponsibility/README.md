@@ -122,3 +122,8 @@ $bank->pay(259);
 // Нельзя оплатить с помощью Paypal. Обрабатываю...
 // Оплачено 259 с помощью Bitcoin!
 ```
+
+<div align="center">
+    <h2> Структура проекта </h2>
+    <img src="https://sun9-65.userapi.com/impg/dpAgvrzYaXneMlt_v7MqzbBaV8tkPJu-Oox9mw/M0gfeICmcyE.jpg?size=689x450&quality=96&sign=8c46bb9a5179bcdd561977c7964abf56&type=album" alt="SimpleFactory">
+</div>
